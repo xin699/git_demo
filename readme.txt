@@ -1,1 +1,0 @@
-ranch_dev.txt  day1.md  day2.md  demo.txt  readme.txt
