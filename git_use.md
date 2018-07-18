@@ -34,6 +34,11 @@
 ##克隆代码
 - git clone git@github.com:michaelliao/gitskills.git 、在github找到相应项目地址，克隆下来、
 
+##克隆远程某分支代码到本地
++ git fetch origin dev  `把远程分支dev拉到本地`
++ git checkout -b dev origin/dev `在本地创建分支dev并切换到该分支`
++ git pull origin dev  `把分支dev上的内容都拉取到本地`
+
 ##创建与合并分支
 + git branch <name> `创建分支`
 + git checkout <name> `切换分支`
