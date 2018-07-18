@@ -43,6 +43,9 @@
 + git log --graph --pretty=oneline --abbrev-commit  `查看分支合并情况`
 + git branch -d <name>  `删除分支`
 
+##删除远程仓库
++ git push origin[空格]冒号branchname `比如： git push origin :test`
+
 ##git 一些常用命令
 - git config -l `查看你的Git全局设置信息`
 - git config --local --list `查看你本地git的设置信息`
