@@ -48,3 +48,11 @@
 - git config --local --list `查看你本地git的设置信息`
 - git config --global user.name "ASxx"  `全局设置用户名`
 - git config --global user.email "123456789@qq.com" `全局设置邮箱`
+
+###linux基础命令
++ sudo -s   `获取绝对用户权限`
++ cd xxx    `进入xxx目录`
++ ls (-a/-A)   `显示当前路径下所有文件(隐藏的)`
++ pwd       `显示当前绝对路径`
++ mkdir  xxx   `创建文件夹xxx`
++ man xxx     `查看xxx命令手册`
